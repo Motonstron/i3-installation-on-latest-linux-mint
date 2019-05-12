@@ -7,7 +7,7 @@ set -e
 #
 ##################################################################################################################
 
-sh applications/install-atom-v*.sh
+#sh applications/install-atom-v*.sh
 
 sh applications/install-google-chrome-v*.sh
 
@@ -15,7 +15,7 @@ sh applications/install-spotify-v*.sh
 
 sh applications/install-vivaldi-snapshot-v*.sh
 
-#sh applications/install-zsh-v*.sh
+sh applications/install-zsh-v*.sh
 
 
 echo "#########################################################"
